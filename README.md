@@ -27,4 +27,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"></p>
 
+<br>
+<br>
 <p align="right">Last Edited on: 26/07/2024</p>
