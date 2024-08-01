@@ -26,7 +26,9 @@
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"></p>
-
+<p align="center">Visit
+  <a href="https://www.marcoseduardo.dev.br">My WebSite</a>
+</p>
 <br>
 <br>
-<p align="right">Last Edited on: 26/07/2024</p>
+<p align="right">Last Edited on: 31/07/2024</p>
