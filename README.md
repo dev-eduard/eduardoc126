@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 <p align="center">My name is Marcos Eduardo, I'm Brazilian, I'm 18 years old, and I'm a <strong>Front-end</strong> developer, passionate about technology.</p>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16FF21&center=true&repeat=false&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
-<br>
 <h3 align="center">Here you will find</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,5 +29,3 @@
   <a href="https://marcoseduardo.dev.br">WebSite</a>
 </p>
 <br>
-<br>
-<p align="right">Last Edited on: 18/09/2024</p>
