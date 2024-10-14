@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-<p align="center">My name is Marcos Eduardo, I'm Brazilian, I'm 18 years old, and I'm a <strong>Front-end</strong> developer, passionate about technology.</p>
+<p align="center">My name is Marcos Eduardo, I'm Brazilian, I'm 18 years old, and I'm a <strong>Front-end</strong> developer.</p>
 <br>
 <h3 align="center">Here you will find</h3>
 <p align="center">
