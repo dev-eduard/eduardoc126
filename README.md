@@ -3,12 +3,11 @@
 <br>
 <h3 align="center">Here you will find</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- 
-  <img src="https://img.shields.io/badge/+others-gray?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-logo?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26">
+  <img src="https://img.shields.io/badge/CSS-logo?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6">
+  <img src="https://img.shields.io/badge/JavaScript-logo?style=for-the-badge&logo=JavaScript&logoColor=white&color=F7DF1E">
+  <img src="https://img.shields.io/badge/REACT-logo?style=for-the-badge&logo=REACT&logoColor=white&color=61DAFB">
+  <img src="https://img.shields.io/badge/SASS-logo?style=for-the-badge&logo=SASS&logoColor=white&color=CC6699">
 </p>
 <br>
 
@@ -20,8 +19,7 @@
 
 <h3 align="center">Where to find me</h3>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/eduardo-c126" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  <a target="_blank" href="https://www.instagram.com/eduardo_c126" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+  <a target="_blank" href="https://www.instagram.com/eduardo_c126" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" /></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"></p>
