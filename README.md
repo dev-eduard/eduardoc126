@@ -6,20 +6,20 @@
 <br/>
 <h3 align="center">Here you will find</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-logo?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26">
-  <img src="https://img.shields.io/badge/CSS-logo?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6">
-  <img src="https://img.shields.io/badge/JavaScript-logo?style=for-the-badge&logo=JavaScript&logoColor=white&color=F7DF1E">
+  <a href="#"><img src="https://img.shields.io/badge/HTML-logo?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS-logo?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-logo?style=for-the-badge&logo=JavaScript&logoColor=white&color=F7DF1E"></a>
   <br/>
-  <img src="https://img.shields.io/badge/NODE-logo?style=for-the-badge&logo=NODE.js&logoColor=white&color=339933">
-  <img src="https://img.shields.io/badge/REACT-logo?style=for-the-badge&logo=REACT&logoColor=white&color=61DAFB">
-  <img src="https://img.shields.io/badge/SASS-logo?style=for-the-badge&logo=SASS&logoColor=white&color=CC6699">
+  <a href="#"><img src="https://img.shields.io/badge/NODE-logo?style=for-the-badge&logo=NODE.js&logoColor=white&color=339933"></a>
+  <a href="#"><img src="https://img.shields.io/badge/REACT-logo?style=for-the-badge&logo=REACT&logoColor=white&color=61DAFB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SASS-logo?style=for-the-badge&logo=SASS&logoColor=white&color=CC6699"></a>
 </p>
 <br>
 
 <h3 align="center">My GitHub stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoc126&show_icons=false&layout=compact">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoc126&show_icons=false&layout=compact"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Views&amp;color=0e75b6&amp;style=flat"></p>
+<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Views&amp;color=0e75b6&amp;style=flat"></a></p>
 <br>
