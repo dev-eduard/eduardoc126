@@ -18,7 +18,7 @@
 
 <h3 align="center">My GitHub stats</h3>
 <p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoc126&show_icons=false&layout=compact"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-eduard&show_icons=false&layout=compact"></a>
 </p>
 
 <p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Views&amp;color=0e75b6&amp;style=flat"></a></p>
